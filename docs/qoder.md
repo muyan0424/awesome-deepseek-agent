@@ -77,7 +77,7 @@ Before configuring a custom model, get your API key from the [DeepSeek Platform]
 
 ### Using Qoder
 
-DeepSeek V4 models support up to **1 million tokens of context** and the **max thinking effort level**. After selecting a model, you can set its context window and thinking effort in the model selector.
+DeepSeek V4 models support up to **1M tokens of context** and the **max thinking effort level**. After selecting a model, you can set its context window and thinking effort in the model selector.
 
 #### Using Qoder IDE
 
